@@ -1,2 +1,2 @@
 # color_switcher
-<p>it is basic HTML,css, javascript project</p>
+<p>It is basic HTML,css, javascript project</p>
