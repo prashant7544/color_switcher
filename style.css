@@ -1,0 +1,54 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: flex-start;
+    padding: 0.6rem;
+    gap: 2rem;
+    border-bottom: solid 1px #b4a9a9;
+    background-color: #eee;
+}
+nav a{
+   text-decoration: none; 
+   font-family: 700;
+   font-size: 1rem;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
